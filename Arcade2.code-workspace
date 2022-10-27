@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../arcade"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Arcade2"
+	}
+}
